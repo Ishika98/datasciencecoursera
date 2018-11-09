@@ -1,0 +1,6 @@
+﻿[WksPlotMenuMRUList]
+Version = 2
+1 = {"33271","","Stacked Lines by Y Offsets"}
+
+[Ver]
+33

@@ -1,0 +1,12 @@
+
+
+FATAL ERROR:  Unhandled e0434352h Exception at 867ba1c8h
+
+02/05/2017 at 10:55:12.894  Drawing: Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0040 Exception at c3c98a7ch
+
+02/14/2017 at 12:35:44.162  Drawing: Drawing1.dwg
+-------------
